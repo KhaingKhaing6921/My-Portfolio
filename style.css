@@ -8,3 +8,7 @@ h1{
 header{
     color: burlywood;
 }
+p{
+    background-color: brown;
+    color: #000;
+}
